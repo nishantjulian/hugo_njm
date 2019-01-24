@@ -1,0 +1,4 @@
+baseURL = "https://nishantjulian.github.io/"
+languageCode = "en-us"
+title = "Hello World !"
+theme = "hermit"
